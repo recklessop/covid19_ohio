@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /home/justin/covid19_ohio
 curl -o COVIDSummaryData.csv https://coronavirus.ohio.gov/static/COVIDSummaryData.csv
 git add *
 git commit -m "$(date '+%Y-%m-%d')"
