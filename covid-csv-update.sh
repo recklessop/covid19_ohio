@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /home/justin/covid19_ohio
-curl -o COVIDSummaryData.csv https://coronavirus.ohio.gov/static/COVIDSummaryData.csv
+curl -o COVIDSummaryData.csv https://coronavirus.ohio.gov/static/dashboards/COVIDSummaryData.csv
 curl -o COVIDSummaryDataZIP.csv https://coronavirus.ohio.gov/static/dashboards/COVIDSummaryDataZIP.csv
 curl -o school_reporting.csv https://coronavirus.ohio.gov/static/dashboards/school_reporting.csv
 git add *
