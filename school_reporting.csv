@@ -57,7 +57,7 @@ Ashland,Mapleton Local,Public District,2,32,2,22
 Ashland,St Edward,Private School,0,4,0,2
 Ashland,St Edward,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Medina,Black River Local,Public District,0,4,0,1
-Ashtabula,Ashtabula County ESC,Educational Service Center,0,0,0,0
+Ashtabula,Ashtabula County ESC,Educational Service Center,0,0,0,7
 Ashtabula,Christian Faith Academy,Private School,0,0,0,0
 Ashtabula,Ashtabula Area City,Public District,4,45,2,27
 Ashtabula,Ashtabula County Board of DD,County Board of Developmental Disabilities,0,1,0,0
@@ -71,15 +71,15 @@ Ashtabula,Jefferson Area Local,Public District,0,18,0,12
 Ashtabula,Pymatuning Valley Local,Public District,0,6,0,2
 Ashtabula,Saint John School,Private School,0,8,0,3
 Ashtabula,Saint John School,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Athens,Alexander Local,Public District,No Cases Reported,21,No Cases Reported,15
-Athens,Athens City,Public District,No Cases Reported,25,No Cases Reported,18
-Athens,Athens County Board of DD,County Board of Developmental Disabilities,No Cases Reported,0,No Cases Reported,0
-Athens,Athens-Meigs ESC,Educational Service Center,No Cases Reported,0,No Cases Reported,1
-Athens,Federal Hocking Local,Public District,No Cases Reported,8,No Cases Reported,3
-Athens,Haugland Learning Center - Athens,Private School,No Cases Reported,0,No Cases Reported,1
-Athens,Nelsonville-York City,Public District,No Cases Reported,27,No Cases Reported,17
-Athens,Tri-County Career Center,Joint Vocational School District,No Cases Reported,14,No Cases Reported,9
-Athens,Trimble Local,Public District,No Cases Reported,22,No Cases Reported,17
+Athens,Alexander Local,Public District,0,21,0,15
+Athens,Athens City,Public District,3,28,1,19
+Athens,Athens County Board of DD,County Board of Developmental Disabilities,0,0,0,0
+Athens,Athens-Meigs ESC,Educational Service Center,0,0,0,1
+Athens,Federal Hocking Local,Public District,2,10,0,3
+Athens,Haugland Learning Center - Athens,Private School,0,0,0,1
+Athens,Nelsonville-York City,Public District,1,28,1,18
+Athens,Tri-County Career Center,Joint Vocational School District,0,14,0,9
+Athens,Trimble Local,Public District,0,22,0,17
 Auglaize,Auglaize County Board of DD,County Board of Developmental Disabilities,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Auglaize,Auglaize County ESC,Educational Service Center,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Auglaize,Endicott Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
@@ -194,16 +194,16 @@ Carroll,Carroll County Board of DD,County Board of Developmental Disabilities,0,
 Carroll,Carroll County Christian Academy,Private School,0,6,0,4
 Carroll,Carrollton Exempted Village,Public District,2,64,1,43
 Carroll,Conotton Valley Union Local,Public District,1,27,0,18
-Champaign,Graham Local,Public District,0,0,0,0
-Champaign,Madison-Champaign ESC,Educational Service Center,0,0,0,0
-Champaign,Mechanicsburg Exempted Village,Public District,0,0,0,0
+Champaign,Graham Local,Public District,0,41,0,23
+Champaign,Madison-Champaign ESC,Educational Service Center,0,2,0,2
+Champaign,Mechanicsburg Exempted Village,Public District,0,11,0,1
 Champaign,Operation Rebirth Inc.,Private School,0,0,0,0
 Champaign,Rembold Stem Academy,Private School,0,0,0,0
 Champaign,Roberts STEM Academy,Private School,0,0,0,0
-Champaign,Triad Local,Public District,0,0,0,0
-Champaign,Urbana City,Public District,0,0,0,0
+Champaign,Triad Local,Public District,0,20,0,12
+Champaign,Urbana City,Public District,0,32,0,9
 Champaign,Victory Christian School,Private School,0,0,0,0
-Champaign,West Liberty-Salem Local,Public District,0,0,0,0
+Champaign,West Liberty-Salem Local,Public District,0,10,0,3
 Champaign,Yorgason Academy,Private School,0,0,0,0
 Hamilton,AchievePoint Career Academy - Cincinnati,Community School,No Cases Reported,5,No Cases Reported,0
 Hamilton,Aldersgate Christian Academy,Private School,No Cases Reported,4,No Cases Reported,2
@@ -728,8 +728,8 @@ Franklin,Zenith Academy,Community School,No Cases Reported,0,No Cases Reported,1
 Franklin,Zenith Academy East,Community School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Franklin,Zenith Academy West,Community School,No Cases Reported,0,No Cases Reported,2
 Morrow,Hadden Institute The,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Ashtabula,Conneaut Area City,Public District,No Cases Reported,8,No Cases Reported,5
-Ashtabula,Shireland Academy,Private School,No Cases Reported,0,No Cases Reported,0
+Ashtabula,Conneaut Area City,Public District,0,8,0,5
+Ashtabula,Shireland Academy,Private School,0,0,0,0
 Coshocton,Coshocton City,Public District,0,34,1,22
 Coshocton,Coshocton Opportunity School,Community School,0,1,0,0
 Coshocton,Sacred Heart,Private School,0,0,0,1
@@ -1198,13 +1198,13 @@ Fulton,Wauseon Exempted Village,Public District,1,32,0,16
 Crawford,Galion City,Public District,1,21,0,19
 Crawford,St Joseph,Private School,0,0,0,0
 Crawford,St Joseph,Preschool,0,0,0,0
-Gallia,Gallia County Board of DD,County Board of Developmental Disabilities,No Cases Reported,0,No Cases Reported,2
-Gallia,Gallia County Local,Public District,No Cases Reported,50,No Cases Reported,28
-Gallia,Gallia-Jackson-Vinton,Joint Vocational School District,No Cases Reported,36,No Cases Reported,20
+Gallia,Gallia County Board of DD,County Board of Developmental Disabilities,0,0,0,2
+Gallia,Gallia County Local,Public District,4,54,4,32
+Gallia,Gallia-Jackson-Vinton,Joint Vocational School District,1,37,0,20
 Gallia,Gallia-Vinton ESC,Educational Service Center,No Cases Reported,1,No Cases Reported,1
-Gallia,Gallipolis City ,Public District,No Cases Reported,32,No Cases Reported,15
+Gallia,Gallipolis City ,Public District,9,41,5,20
 Gallia,Gallipolis Developmental Centr,County Board of Developmental Disabilities,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Gallia,Ohio Valley Christian School,Private School,No Cases Reported,2,No Cases Reported,2
+Gallia,Ohio Valley Christian School,Private School,0,2,0,2
 Gallia,Ohio Valley Christian School,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Geauga,Agape Christian Academy,Private School,No Cases Reported,5,No Cases Reported,5
 Geauga,Berkshire Local,Public District,No Cases Reported,33,No Cases Reported,16
@@ -1255,129 +1255,129 @@ Greene,Summit Academy Community School Alternative Learners -Xenia,Community Sch
 Greene,Turner Learning Center,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Greene,Xenia Community City,Public District,1,46,3,35
 Greene,Yellow Springs Exempted Village,Public District,0,1,0,1
-Clermont,St Columban,Private School,No Cases Reported,40,No Cases Reported,7
+Clermont,St Columban,Private School,1,41,0,7
 Clermont,St Columban,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Al Pi Darko Initiative,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,All Saints,Private School,No Cases Reported,15,No Cases Reported,4
+Hamilton,All Saints,Private School,1,16,0,4
 Hamilton,Altercrest Day Treatment,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Aptamus Usquam Discere Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Beautiful Savior Lutheran,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Beautiful Savior Lutheran,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Bell Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Bethany,Private School,No Cases Reported,0,No Cases Reported,0
+Hamilton,Bethany,Private School,0,0,0,0
 Hamilton,Blue Ash Educational Bldg,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Blue Ash Educational Bldg,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Blue Ash Educational Bldg,Before and After School Programs,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Central Baptist Academy - Elementary,Private School,No Cases Reported,3,No Cases Reported,5
+Hamilton,Central Baptist Academy - Elementary,Private School,0,3,0,5
 Hamilton,Central Montessori Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Central Montessori Academy,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Children's House-Delhi  The,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Childrens House-Kdg-Bridgetown,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Cincinnati Country Day,Private School,No Cases Reported,40,No Cases Reported,11
-Hamilton,Cincinnati Country Day,Preschool,No Cases Reported,1,No Cases Reported,0
+Hamilton,Cincinnati Country Day,Private School,1,41,0,11
+Hamilton,Cincinnati Country Day,Preschool,0,1,0,0
 Hamilton,Cincinnati Hebrew Day Chofetz,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Cincinnati Hebrew Day Chofetz,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Cincinnati Hills Christian Academy,Private School,No Cases Reported,21,No Cases Reported,7
-Hamilton,Cincinnati Hills Christian Academy,Private School,No Cases Reported,25,No Cases Reported,1
-Hamilton,Cincinnati Hills Christian Academy- the Edyth B. Lindner Ele,Private School,No Cases Reported,13,No Cases Reported,6
-Hamilton,Cincinnati Hills- Lindner Elem School,Preschool,No Cases Reported,2,No Cases Reported,3
+Hamilton,Cincinnati Hills Christian Academy,Private School,1,22,0,7
+Hamilton,Cincinnati Hills Christian Academy,Private School,0,24,0,1
+Hamilton,Cincinnati Hills Christian Academy- the Edyth B. Lindner Ele,Private School,1,14,0,6
+Hamilton,Cincinnati Hills- Lindner Elem School,Preschool,0,2,0,3
 Hamilton,Cincinnati Waldorf School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Cincinnati Waldorf School,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,City on a Hill Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Deer Park Community City,Public District,No Cases Reported,89,No Cases Reported,28
-Hamilton,Finneytown Local,Public District,No Cases Reported,24,No Cases Reported,28
-Hamilton,Forest Hills Local,Public District,No Cases Reported,267,No Cases Reported,90
+Hamilton,Deer Park Community City,Public District,6,96,1,31
+Hamilton,Finneytown Local,Public District,2,26,0,28
+Hamilton,Forest Hills Local,Public District,0,267,0,90
 Hamilton,Grace Wesleyan Ch-Heaven's Treasure,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Grace Wesleyan Ch-Heaven's Treasure,Before and After School Programs,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Great Oaks Career Campuses,Joint Vocational School District,No Cases Reported,67,No Cases Reported,15
+Hamilton,Great Oaks Career Campuses,Joint Vocational School District,0,67,0,15
 Hamilton,Green Forest Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Hamilton Cnty Math & Science,Community School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Hamilton County ESC,Educational Service Center,No Cases Reported,0,No Cases Reported,1
+Hamilton,Hamilton County ESC,Educational Service Center,0,0,0,1
 Hamilton,Heaven's Treasures Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Hillcrest Training School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Immaculate Heart Of Mary,Private School,No Cases Reported,0,No Cases Reported,1
+Hamilton,Immaculate Heart Of Mary,Private School,0,0,0,1
 Hamilton,Immaculate Heart of Mary Preschool,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Indian Hill Exempted Village,Public District,No Cases Reported,44,No Cases Reported,19
-Hamilton,John Paul II Catholic School,Private School,No Cases Reported,8,No Cases Reported,5
+Hamilton,Indian Hill Exempted Village,Public District,5,49,2,21
+Hamilton,John Paul II Catholic School,Private School,0,8,0,5
 Hamilton,John Paul II Catholic School,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,KinderCare Learning Center,Private School,No Cases Reported,1,No Cases Reported,4
-Hamilton,Lasalle,Private School,No Cases Reported,64,No Cases Reported,24
-Hamilton,Linden Grove School,Private School,No Cases Reported,0,No Cases Reported,2
-Hamilton,Lockland Local,Public District,No Cases Reported,7,No Cases Reported,11
-Hamilton,Loveland City,Public District,No Cases Reported,135,No Cases Reported,39
-Hamilton,Madeira City,Public District,No Cases Reported,48,No Cases Reported,20
+Hamilton,KinderCare Learning Center,Private School,0,1,0,4
+Hamilton,Lasalle,Private School,0,64,0,24
+Hamilton,Linden Grove School,Private School,0,0,0,2
+Hamilton,Lockland Local,Public District,0,6,0,9
+Hamilton,Loveland City,Public District,2,137,3,42
+Hamilton,Madeira City,Public District,3,51,0,20
 Hamilton,Malachi's Children Christian School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Mariemont City,Public District,No Cases Reported,65,No Cases Reported,22
-Hamilton,Miami Valley Christian Academy,Private School,No Cases Reported,34,No Cases Reported,6
-Hamilton,Miami Valley Christian Academy,Preschool,No Cases Reported,2,No Cases Reported,3
+Hamilton,Mariemont City,Public District,1,65,1,22
+Hamilton,Miami Valley Christian Academy,Private School,0,34,0,6
+Hamilton,Miami Valley Christian Academy,Preschool,0,2,0,3
 Hamilton,Missions Helping Hands Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Moeller,Private School,No Cases Reported,51,No Cases Reported,9
-Hamilton,Mount Notre Dame,Private School,No Cases Reported,45,No Cases Reported,25
-Hamilton,Mt Healthy City,Public District,No Cases Reported,12,No Cases Reported,24
+Hamilton,Moeller,Private School,8,48,0,9
+Hamilton,Mount Notre Dame,Private School,1,47,0,25
+Hamilton,Mt Healthy City,Public District,2,10,1,24
 Hamilton,Mt. Healthy Preparatory and Fitness Academy,Community School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Mt. Hope Christian Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,New Covenant Hebrew Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,North College Hill City,Public District,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Northwest Local ,Public District,No Cases Reported,216,No Cases Reported,190
-Hamilton,Oak Hills Local ,Public District,No Cases Reported,327,No Cases Reported,160
+Hamilton,Northwest Local ,Public District,10,226,8,198
+Hamilton,Oak Hills Local ,Public District,12,354,8,174
 Hamilton,Our Lady of Grace Catholic School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Our Lady Of Victory,Private School,No Cases Reported,1,No Cases Reported,1
+Hamilton,Our Lady Of Victory,Private School,0,1,0,1
 Hamilton,Our Lady Of Victory,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Our Lady Of Visitation,Private School,No Cases Reported,9,No Cases Reported,4
-Hamilton,Princeton City,Public District,No Cases Reported,83,No Cases Reported,100
+Hamilton,Our Lady Of Visitation,Private School,0,9,0,4
+Hamilton,Princeton City,Public District,2,85,4,109
 Hamilton,Rabbinical Yeshiva of Cincinnati,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Reading Community City,Public District,No Cases Reported,29,No Cases Reported,18
+Hamilton,Reading Community City,Public District,0,29,0,18
 Hamilton,Redwine Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Rockwern Academy,Private School,No Cases Reported,2,No Cases Reported,4
-Hamilton,Rockwern Academy,Preschool,No Cases Reported,1,No Cases Reported,3
+Hamilton,Rockwern Academy,Private School,0,2,0,4
+Hamilton,Rockwern Academy,Preschool,0,1,0,3
 Hamilton,Roger Bacon,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Schilling School For Gifted,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Skyward Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Skyward Academy New Hope,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Southwest Local,Public District,No Cases Reported,167,No Cases Reported,79
+Hamilton,Southwest Local,Public District,8,175,1,80
 Hamilton,Springs East School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Springs East School-Building 1,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Springs East School-Building 1,Before and After School Programs,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,St Aloysius Gonzaga,Private School,No Cases Reported,1,No Cases Reported,0
+Hamilton,St Aloysius Gonzaga,Private School,0,1,0,0
 Hamilton,St Aloysius Gonzaga,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,St Antoninus,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,St Bernard School,Private School,No Cases Reported,9,No Cases Reported,8
+Hamilton,St Bernard School,Private School,1,8,1,8
 Hamilton,St Bernard-Elmwood Place City,Public District,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,St Clement,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,St Clement,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,St Dominic,Private School,No Cases Reported,20,No Cases Reported,10
-Hamilton,St Dominic,Preschool,No Cases Reported,1,No Cases Reported,1
-Hamilton,St Gabriel,Private School,No Cases Reported,13,No Cases Reported,4
-Hamilton,St Gertrude,Private School,No Cases Reported,5,No Cases Reported,1
-Hamilton,St Ignatius Loyola,Private School,No Cases Reported,35,No Cases Reported,10
-Hamilton,St Ignatius Loyola,Preschool,No Cases Reported,1,No Cases Reported,1
-Hamilton,St James,Private School,No Cases Reported,34,No Cases Reported,11
-Hamilton,St John The Baptist,Private School,No Cases Reported,15,No Cases Reported,6
-Hamilton,St John The Baptist,Private School,No Cases Reported,9,No Cases Reported,4
-Hamilton,St John The Baptist,Preschool,No Cases Reported,2,No Cases Reported,1
+Hamilton,St Dominic,Private School,1,20,0,10
+Hamilton,St Dominic,Preschool,0,1,0,1
+Hamilton,St Gabriel,Private School,1,13,0,4
+Hamilton,St Gertrude,Private School,0,5,0,1
+Hamilton,St Ignatius Loyola,Private School,0,35,0,10
+Hamilton,St Ignatius Loyola,Preschool,0,1,0,1
+Hamilton,St James,Private School,1,33,0,11
+Hamilton,St John The Baptist,Private School,2,14,0,4
+Hamilton,St John The Baptist,Private School,1,12,2,9
+Hamilton,St John The Baptist,Preschool,1,2,0,0
 Hamilton,St John The Baptist,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,St Joseph Villa Academy Sn,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,St Jude,Private School,No Cases Reported,18,No Cases Reported,15
+Hamilton,St Jude,Private School,1,18,0,15
 Hamilton,St Martin Of Tours,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,St Michael,Private School,No Cases Reported,11,No Cases Reported,4
-Hamilton,St Rita School for the Deaf,Private School,No Cases Reported,1,No Cases Reported,3
+Hamilton,St Michael,Private School,0,11,0,4
+Hamilton,St Rita School for the Deaf,Private School,0,1,0,3
 Hamilton,St Rita School for the Deaf,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,St Vincent Ferrer,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,St Vincent Ferrer,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,St Vivian,Private School,No Cases Reported,2,No Cases Reported,3
+Hamilton,St Vivian,Private School,0,2,0,3
 Hamilton,St Vivian,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,St Xavier,Private School,No Cases Reported,101,No Cases Reported,20
+Hamilton,St Xavier,Private School,11,111,0,20
 Hamilton,Sts. Peter and Paul Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Summit Academy of Southwest Ohio,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Sycamore Community City,Public District,No Cases Reported,222,No Cases Reported,145
+Hamilton,Sycamore Community City,Public District,17,239,9,154
 Hamilton,Terry's Montessori School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,The Good Shepherd Catholic Montessori,Private School,No Cases Reported,6,No Cases Reported,2
+Hamilton,The Good Shepherd Catholic Montessori,Private School,0,6,0,2
 Hamilton,The Good Shepherd Catholic Montessori,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hamilton,Thomas Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Hamilton,Three Rivers Local ,Public District,No Cases Reported,4,No Cases Reported,3
-Hamilton,Ursuline Academy,Private School,No Cases Reported,15,No Cases Reported,3
-Hamilton,Winton Woods City,Public District,No Cases Reported,69,No Cases Reported,70
-Hamilton,Wyoming City,Public District,No Cases Reported,20,No Cases Reported,22
+Hamilton,Three Rivers Local ,Public District,0,4,0,3
+Hamilton,Ursuline Academy,Private School,0,15,0,3
+Hamilton,Winton Woods City,Public District,10,54,2,65
+Hamilton,Wyoming City,Public District,2,22,0,22
 Hancock,Arcadia Local,Public District,No Cases Reported,8,No Cases Reported,1
 Hancock,Arlington Local,Public District,No Cases Reported,18,No Cases Reported,12
 Hancock,Brookside Christian School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
@@ -1435,10 +1435,10 @@ Highland,St Mary Catholic,Private School,0,0,0,0
 Highland,St Mary Catholic,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Highland,Stonewall Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Hocking,Hocking County Board of DD,County Board of Developmental Disabilities,0,0,0,0
-Hocking,Logan Christian School,Private School,0,0,0,0
-Hocking,Logan Church Of The Nazarene,Preschool,0,0,0,0
-Hocking,Logan-Hocking Local,Public District,0,0,0,0
-Hocking,St John,Private School,0,0,0,0
+Hocking,Logan Christian School,Private School,0,2,0,0
+Hocking,Logan Church Of The Nazarene,Preschool,0,1,0,0
+Hocking,Logan-Hocking Local,Public District,0,28,0,64
+Hocking,St John,Private School,0,1,0,0
 Hocking,St John,Preschool,0,0,0,0
 Holmes,Apple Hill Christian School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Holmes,East Holmes Local ,Public District,No Cases Reported,19,No Cases Reported,27
@@ -1888,11 +1888,11 @@ Noble,Noble County Board of DD,County Board of Developmental Disabilities,0,0,0,
 Noble,Noble Local,Public District,0,48,0,7
 Noble,Ohio Wilderness Boys Camp Outdoor Experiential School,Private School,0,0,0,0
 Hamilton,Azalea Montessori School,Private School,0,0,0,0
-Hamilton,Immaculate Conception Academy,Private School,0,0,0,0
-Hamilton,Norwood City ,Public District,0,0,0,0
+Hamilton,Immaculate Conception Academy,Private School,0,2,0,5
+Hamilton,Norwood City ,Public District,0,28,0,19
 Hamilton,School of Angels,Private School,0,0,0,0
 Montgomery,Hillel Academy Of Dayton,Private School,0,0,0,0
-Montgomery,Oakwood City,Public District,0,0,0,0
+Montgomery,Oakwood City,Public District,0,68,0,19
 Ottawa,Benton Carroll Salem Local,Public District,0,61,0,27
 Ottawa,Community Christian Academy,Private School,0,0,0,0
 Ottawa,Danbury Local,Public District,0,11,0,6
@@ -1908,13 +1908,13 @@ Ottawa,Put-In-Bay Local,Public District,0,0,0,2
 Ottawa,St Boniface,Private School,0,0,0,0
 Ottawa,St Boniface,Preschool,0,0,0,0
 Sandusky,Woodmore Local,Public District,2,37,1,18
-Paulding,Antwerp Local,Public District,No Cases Reported,39,No Cases Reported,16
-Paulding,Divine Mercy School,Private School,No Cases Reported,1,No Cases Reported,3
-Paulding,Divine Mercy School,Preschool,No Cases Reported,0,No Cases Reported,0
-Paulding,Paulding County Board of DD,County Board of Developmental Disabilities,No Cases Reported,0,No Cases Reported,0
-Paulding,Paulding Exempted Village,Public District,No Cases Reported,23,No Cases Reported,29
-Paulding,Wayne Trace Local,Public District,No Cases Reported,16,No Cases Reported,5
-Paulding,Western Buckeye ESC,Educational Service Center,No Cases Reported,0,No Cases Reported,21
+Paulding,Antwerp Local,Public District,0,39,0,16
+Paulding,Divine Mercy School,Private School,0,1,0,3
+Paulding,Divine Mercy School,Preschool,0,0,0,0
+Paulding,Paulding County Board of DD,County Board of Developmental Disabilities,0,0,0,0
+Paulding,Paulding Exempted Village,Public District,0,23,0,29
+Paulding,Wayne Trace Local,Public District,0,16,0,5
+Paulding,Western Buckeye ESC,Educational Service Center,0,0,0,21
 Perry,Crooksville Exempted Village,Public District,0,16,2,13
 Perry,Holy Trinity,Private School,No Cases Reported,0,No Cases Reported,2
 Perry,Holy Trinity,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
@@ -1983,13 +1983,13 @@ Scioto,Portsmouth Stem Academy,Preschool,No Cases Reported,No Cases Reported,No 
 Scioto,Scioto County Board of DD,County Board of Developmental Disabilities,No Cases Reported,1,No Cases Reported,6
 Scioto,Sciotoville,Community School,No Cases Reported,5,No Cases Reported,19
 Preble,College Corner Local,Public District,0,0,0,0
-Preble,Eaton Community City,Public District,0,0,0,0
-Preble,National Trail Local,Public District,0,0,0,0
+Preble,Eaton Community City,Public District,0,27,0,20
+Preble,National Trail Local,Public District,0,41,0,35
 Preble,Preble County Board of DD,County Board of Developmental Disabilities,0,0,0,0
-Preble,Preble County ESC,Educational Service Center,0,0,0,0
-Preble,Preble Shawnee Local,Public District,0,0,0,0
-Preble,Tri-County North Local,Public District,0,0,0,0
-Preble,Twin Valley Community Local,Public District,0,0,0,0
+Preble,Preble County ESC,Educational Service Center,0,1,0,3
+Preble,Preble Shawnee Local,Public District,0,65,0,34
+Preble,Tri-County North Local,Public District,0,13,0,14
+Preble,Twin Valley Community Local,Public District,0,10,0,12
 Montgomery,AJP Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Montgomery,Alexandria Montessori,Private School,0,1,0,0
 Montgomery,Alexandria Montessori,Preschool,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
@@ -2206,21 +2206,21 @@ Richland,Pioneer Career & Technology,Joint Vocational School District,2,33,0,12
 Richland,Shelby City,Public District,1,32,2,27
 Richland,St Mary,Private School,0,0,0,2
 Richland,St Mary,Preschool,0,1,0,0
-Shelby,Anna Local,Public District,No Cases Reported,24,No Cases Reported,10
-Shelby,Botkins Local,Public District,No Cases Reported,5,No Cases Reported,3
-Shelby,Christian Academy Schools,Private School,No Cases Reported,2,No Cases Reported,2
-Shelby,Fairlawn Local,Public District,No Cases Reported,13,No Cases Reported,6
+Shelby,Anna Local,Public District,2,27,0,10
+Shelby,Botkins Local,Public District,0,5,0,3
+Shelby,Christian Academy Schools,Private School,0,2,0,2
+Shelby,Fairlawn Local,Public District,0,14,0,6
 Shelby,Fleming Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Shelby,Fort Loramie Local,Public District,No Cases Reported,9,No Cases Reported,11
-Shelby,Hardin-Houston Local,Public District,No Cases Reported,11,No Cases Reported,9
-Shelby,Holy Angels,Private School,No Cases Reported,1,No Cases Reported,6
-Shelby,Jackson Center Local,Public District,No Cases Reported,9,No Cases Reported,1
-Shelby,Lehman High School,Private School,No Cases Reported,15,No Cases Reported,1
+Shelby,Fort Loramie Local,Public District,0,9,0,11
+Shelby,Hardin-Houston Local,Public District,0,12,0,9
+Shelby,Holy Angels,Private School,0,1,0,6
+Shelby,Jackson Center Local,Public District,0,9,0,1
+Shelby,Lehman High School,Private School,0,15,0,1
 Shelby,North Star Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Shelby,Pineview Christian Academy,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
-Shelby,Russia Local,Public District,No Cases Reported,7,No Cases Reported,4
-Shelby,Shelby County Board of DD,County Board of Developmental Disabilities,No Cases Reported,0,No Cases Reported,3
-Shelby,Sidney City,Public District,No Cases Reported,63,No Cases Reported,26
+Shelby,Russia Local,Public District,0,7,0,4
+Shelby,Shelby County Board of DD,County Board of Developmental Disabilities,0,0,0,3
+Shelby,Sidney City,Public District,2,65,0,26
 Hamilton,Calvary Academy The,Private School,0,1,0,3
 Stark,Ave Maria Homeschool,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
 Stark,Canton Country Day School,Private School,No Cases Reported,No Cases Reported,No Cases Reported,No Cases Reported
